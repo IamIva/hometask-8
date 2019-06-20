@@ -12,6 +12,7 @@ html, body {
 .headline{
 	text-align: center;
 	font-size: 18px;
+	font-family: 'MyriadPro-Regular';
 }
 .navbar{
 	padding-left: 2.5%;
@@ -21,6 +22,7 @@ html, body {
 	display: inline-block;
 	text-transform: uppercase;
 	margin-right: 3%;
+	font-family: 'MyriadPro-Regular';
 }
 .relative{
 	position: relative;
@@ -53,6 +55,7 @@ img{
 	position: absolute;
 	bottom: 0;
 	right: 5px;
+	font-family: 'MyriadPro-Regular';
 }
 .text2{
 	font-size: 14px;
@@ -61,6 +64,7 @@ img{
 	position: absolute;
 	bottom: 5px;
 	right: 5px;
+	font-family: 'MyriadPro-Regular';
 }
 .text3{
 	font-size: 39px;
@@ -71,4 +75,5 @@ img{
 	left: 0;
 	z-index: 10;
 	transform: rotate(40deg);
+	font-family: 'MyriadPro-Regular';
 }
